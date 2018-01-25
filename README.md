@@ -1,3 +1,3 @@
 # GoogleMaps
 
-I put in a mar
+I put in a marker.
